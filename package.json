@@ -1,6 +1,6 @@
 {
   "name": "@rxjs-toolkit/resize-observer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": "git+https://github.com/rxjs-toolkit/resize-observer.git",
   "author": "Lucas Dornelas",
   "license": "MIT",
